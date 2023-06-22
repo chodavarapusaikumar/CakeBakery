@@ -6,7 +6,7 @@ This is my Online Bakery website done as a part of FRT Project.
 
 **Project Demo URL** --> https://gentle-meadow-0ebe24010.3.azurestaticapps.net
 
-**Project Demo Video URL** --> 
+**Project Demo Video URL** --> https://youtu.be/gRLf1NWIXd4
 
 
 
