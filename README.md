@@ -8,16 +8,17 @@ This is my Online Bakery website done as a part of FRT Project.
 
 **Project Demo Video URL** --> 
 
-**Azure technologies used for Project**
 
+
+**Azure technologies used for Project**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Static Web App
 * Azure Cognitive Service ( Azure Language Service )
 * Azure Bot Service
 
+
  **Features and Functionalities**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 * Interactive and responsive UI.
 
 * Has a Chat Bot to interact for any type of queries
