@@ -34,6 +34,46 @@ This is my Online Bakery website done as a part of FRT Project.
 * Has collection of many web pages including Home,About,Gallery,Contact.
 
 * Included the contact details to contact us for any type of queries.
+  
+
+**ScreenShots**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Home Page
+
+![image](https://github.com/chodavarapusaikumar/CakeBakery/assets/110918123/d2824a4d-7ac9-47a0-9ec5-31434880833a)
+
+
+About Page
+
+![image](https://github.com/chodavarapusaikumar/CakeBakery/assets/110918123/f9deeb33-7418-4a13-9bc5-212bbd3ee9fa)
+
+
+Gallery Page
+
+![image](https://github.com/chodavarapusaikumar/CakeBakery/assets/110918123/5e1ea70f-143e-4e6a-8232-6b11541385e0)
+
+
+Contact Page
+
+![image](https://github.com/chodavarapusaikumar/CakeBakery/assets/110918123/e174fcb6-2063-449a-9bdc-0020cc055b66)
+
+
+Services 
+
+![image](https://github.com/chodavarapusaikumar/CakeBakery/assets/110918123/f1023f83-77a3-42da-929a-4b8037d9fe68)
+
+
+Order Cake
+
+![image](https://github.com/chodavarapusaikumar/CakeBakery/assets/110918123/2a275d78-50e8-4984-803c-487228679416)
+
+
+ChatBot Page
+
+![image](https://github.com/chodavarapusaikumar/CakeBakery/assets/110918123/92aadcc7-5f2f-472c-84e9-ee721668f136)
+
+
 
 **Tech Stack**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
