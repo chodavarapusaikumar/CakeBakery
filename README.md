@@ -34,3 +34,13 @@ This is my Online Bakery website done as a part of FRT Project.
 * Has collection of many web pages including Home,About,Gallery,Contact.
 
 * Included the contact details to contact us for any type of queries.
+
+**Tech Stack**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Azure Static Web App
+* Azure Cognitive Service
+* Azure Bot Service
+* Azure Language Service
+* HTML
+* CSS
+* JavaScript
